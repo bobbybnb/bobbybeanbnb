@@ -1,0 +1,5 @@
+_site
+.DS_Store
+lib/fightclub.coffee
+node_modules
+*.log
