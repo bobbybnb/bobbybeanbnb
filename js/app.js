@@ -41,6 +41,6 @@ btdotjsProfile.controller('btdotjsCtl', function($scope, $http) {
     "friendlyname": "Loading...",
     "phnum": "Loading...",
     "lastseen": "",
-    "profilephotourl": "http://www.nolim1t.co/bobbybeanbnb/img/bobbybnb.png"
+    "profilephotourl": "/img/bobbybnb.png"
   }
 });
